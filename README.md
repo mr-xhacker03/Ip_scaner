@@ -22,4 +22,5 @@ pkg install git -y
 pkg install python3 -y
 pkg install ruby -y
 gem install lolcat
+git clone https://github.com/mr-xhacker03/Ip_scaner
 python3 ip_scaner.py
